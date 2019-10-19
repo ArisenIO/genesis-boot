@@ -1,10 +1,10 @@
-#!/bin/bash
-DATADIR="./arisen/"
+#!/bin/bash/
+DATADIR="~/arisen-boot"
 if [ -f #DATADIR"/aosd.pid" ]; then
 pid=`cat $DATADIR"/aosd.pid"`
 echo $pid
 kill $pid
-rm -r $DATADIR"aosd.pid"
+rm -r $DATADIR"/aosd.pd"
 echo -ne "Stopping Arisen Genesis Node"
 while true; do
 [ ! -d "/proc/$pid/fd" ] break
