@@ -119,7 +119,7 @@ At this point, the Genesis Node for Arisen should be running publicly at ```http
 
 
 
-Docs will soon be available at [https://github.com/arisenio/bp-setup](https://github.com/arisenio/bp-setup) that will explain how to setup a full block producer node on the Arisen network.
+Docs will soon be available at [https://github.com/arisenio/bp-docs](https://github.com/arisenio/bp-docs) that will explain how to setup a full block producer node on the Arisen network.
 
 
 ## Developers
